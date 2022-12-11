@@ -1,0 +1,101 @@
+[
+    {
+      "name": "Classic Red & Blue",
+      "description": "Set of Ruby red and Sapphire blue, punctuated with stunning diamond pairs",
+      "price": 1299.00,
+      "image": "images/b1.jpeg",
+      "type": "Bracelet"
+    },
+    {
+      "name": "Cartier bracelet",
+      "description": "This classic diamond piece speaks for itself",
+      "price": 3225.00,
+      "image": "images/b2.jpeg",
+      "type": "Bracelet"
+    },
+    {
+      "name": "Daytime Pearl Drops",
+      "description": "South China Sea pearls mounted upon a light semi-precious criss-cross",
+      "price": 955.00,
+      "image": "images/e1.jpeg",
+      "type": "Earrings"
+    },
+    {
+      "name": "Ocean Blue Earrings",
+      "description": "Sapphire and Diamond earring set in a natural leafy pattern",
+      "price": 1250,
+      "image": "images/e2.jpeg",
+      "type": "Earrings"
+    },
+    {
+      "name": "Evening Pearl Drops",
+      "description": "Japanese pearls mounted upon blue semi-precious honeycombs",
+      "price": 995,
+      "image": "images/e3.jpeg",
+      "type": "Earrings"
+    },
+    {
+      "name": "Seaweed Green Earrings",
+      "description": "Emerald and Diamond earring set in a natural leafy pattern",
+      "price": 1250,
+      "image": "images/e4.jpeg",
+      "type": "Earrings"
+    },
+    {
+      "name": "Disco Pearl Drops",
+      "description": "Ayoka pearls mounted upon diamond disco balls",
+      "price": 995,
+      "image": "images/e5.jpeg",
+      "type": "Earrings"
+    },
+    {
+      "name": "Pink Earrings",
+      "description": "Ruby and Diamond earring set in a natural leafy pattern",
+      "price": 1250,
+      "image": "images/e6.jpeg",
+      "type": "Earrings"
+    },
+    {
+      "name": "Modern China",
+      "description": "Pearls, Diamonds and Sapphires enclosing classy pear-shaped Diamonds",
+      "price": 4295.00,
+      "image": "images/e7.jpeg",
+      "type": "Earrings"
+    },
+    {
+      "name": "Natural Green Pendant",
+      "description": "Emrald and Diamond flower pendant",
+      "price": 1100,
+      "image": "images/green_necklace.jpeg",
+      "type": "Necklace"
+    },
+    {
+      "name": "Engagement Ring",
+      "description": "Classic VVS Diamond engagement ring",
+      "price": 2349,
+      "image": "images/ring1.jpeg",
+      "type": "Ring"
+    },
+    {
+      "name": "Ancient Ring",
+      "description": "Medieval style Diamond ring",
+      "price": 1895,
+      "image": "images/ring2.jpeg",
+      "type": "Ring"
+    },
+    {
+      "name": "Calm Cobra",
+      "description": "Diamond cobra ring with Emrald green eyes",
+      "price": 2100,
+      "image": "images/ring3.jpeg",
+      "type": "Ring"
+    },
+    {
+      "name": "Ocean Blue Ring",
+      "description": "Sapphire centerpiece mounted upon intricately patterned diamonds",
+      "price": 1050,
+      "image": "images/ring4.jpeg",
+      "type": "Ring"
+    }
+  ]
+  
